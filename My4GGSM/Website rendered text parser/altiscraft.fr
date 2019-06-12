@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+ <head>
+  <title>AltisCraft.fr</title>
+  <link rel="stylesheet" type="text/css" href="Website/Media/Style/Main.css" />
+  <link rel="stylesheet" type="text/css" href="Website/Media/Style/Index.css" />
+  <script language="JavaScript" src="Website/JavaScript/SlideShow.js"></script>
+ </head>
+ <body onLoad="preload()">
+  <div id="box_gen">
+   <meta charset="utf-8" />
+		  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		  <ul id="menu">
+			    <li><a class="reception" href=".">ACCUEIL</a></li>
+				    <li><a class="a1" href="http://shop.altiscraft.fr">BOUTIQUE</a></li>
+					    <li><a class="a1" href="http://altiscraft.fr:8123">CARTE</a></li>
+						    <li><a class="a1" href="ts3server://ts.altiscraft.fr:9987">TEAMSPEAK 3</a></li>
+							    <li><a class="a1">SKYPE/EMAIL</a>
+								     <ul>
+									       <li><a class="a2" href="skype:altiscraft?call">APPEL</a></li>
+										         <li><a class="a2" href="skype:altiscraft?chat">MESSAGE</a></li>
+												       <li><a class="a2">SERVEUR@ALTISCRAFT.FR</a></li>
+													        </ul>
+															    </li>
+																    <a href="." id="triangle"></a>
+																	  </ul>
+																	    <div id="banner" ><p>AltisCraft.fr</p></div>   <div id="slider">
+    <img src="Website/Media/Pictures/1.png" id="image" name="image" class="img"/>
+    <script language="JavaScript">autoSlideShow('image')</script>
+   </div>
+   <div id="text">
+	<p>Bienvenue à toi ! Jeune aventurier, si tu recherches le 1er serveur francophone Altis-Life sur Minecraft tu es tombé sur le bon serveur ! AltisCraft.fr possède maintenant une grande communauté et un serveur très bien développé.</p>
+	<h3><a target="_blank" href="https://docs.google.com/document/d/1rnYh5uGzhmrSZ34OW5-3V3XZjxATDYzPypT43C2trjE">Avancement de la prochaine version consultable ici: https://docs.google.com/document/d/1rnYh5uGzhmrSZ34OW5-3V3XZjxATDYzPypT43C2trjE</a></h3>
+   </div>
+   <a class="button" id="button1" href="launcher.php">Télécharger le launcher AltisCraft.fr</a>
+	</div>
+ </body>
+</html>
