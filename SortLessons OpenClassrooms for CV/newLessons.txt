@@ -1,0 +1,64 @@
+\item \href{https://openclassrooms.com/fr/courses/4302126}{Découvrez la programmation orientée objet avec Python} 94 \%
+\item \href{https://openclassrooms.com/fr/courses/1362801}{La cryptographie asymétrique : RSA} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1067141}{L'aléatoire en C et C++ : se servir de rand} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1490316}{Introduction à la vision par ordinateur} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1160706}{Les sockets} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1104776}{Personnaliser ses dossiers avec les desktop.ini !} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1208071}{Introduction aux jointures SQL} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1225826}{Choisir les bons types de colonne SQL} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1945566}{Automatisez vos tâches avec Batch} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1063476}{Les bases du FTP sous MS-DOS} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1133001}{Lecture et écriture dans les fichiers en C++} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1617396}{Rédigez des documents de qualité avec LaTeX} 55 \%
+\item \href{https://openclassrooms.com/fr/courses/2460986}{Créez votre propre serveur VPN avec OPEN VPN} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1229396}{Géolocalisez vos visiteurs grâce à leur IP} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1408416}{Extensions pour chrome} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1393696}{Effectuez vos études statistiques avec R} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1093276}{Le .htaccess et ses fonctionnalités} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/373115}{La gestion du joystick avec la SDL} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/533864}{Apprendre l'ASM Z80 pour TI} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/960281}{Apprenez à programmer en TI-Basic !} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/2976551}{Develop your venture} 94 \%
+\item \href{https://openclassrooms.com/fr/courses/2709621}{Decode the entrepreneur's DNA} 92 \%
+\item \href{https://openclassrooms.com/fr/courses/1130196}{Compilez sous GNU/Linux !} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1090881}{Les paramètres de la fonction main} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/2504541}{Ultra fast applications using Node.js} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1262861}{[C++] Maîtriser le compilateur g++} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1159951}{Wake on lan} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1085676}{Upload de fichiers par formulaire} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/709545}{Débutez en informatique avec Windows 7} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/966823}{Développez vos applications 3D avec OpenGL 3.3} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1129721}{Le typage : présentation thématique et historique} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1601801}{Apprenez à programmer en Perl !} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1256396}{Créer son serveur FTP} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1056721}{Des applications ultra-rapides avec Node.js} 92 \%
+\item \href{https://openclassrooms.com/fr/courses/1916641}{Dynamisez vos sites web avec JavaScript !} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/149791}{Programmez en Objective-C !} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1818146}{Apprenez à programmer en Caml} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/235344}{Apprenez à programmer en Python} 95 \%
+\item \href{https://openclassrooms.com/fr/courses/3149156}{Initiez-vous à Ruby on Rails} 94 \%
+\item \href{https://openclassrooms.com/fr/courses/2913686}{Lancez-vous dans la programmation avec Ruby} 94 \%
+\item \href{https://openclassrooms.com/fr/courses/1460761}{Programmez sur votre DS avec MicroLua} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/26832}{Apprenez à programmer en Java} 87 \%
+\item \href{https://openclassrooms.com/fr/courses/1526901}{Apprenez à développer en C\#} 95 \%
+\item \href{https://openclassrooms.com/fr/courses/1197041}{Simplifier les events avec SDL} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/2383231}{Domptez votre Mac avec OS X Yosemite} 96 \%
+\item \href{https://openclassrooms.com/fr/courses/2778161}{Programmez vos premiers montages avec Arduino} 65 \%
+\item \href{https://openclassrooms.com/fr/courses/1414021}{3D temps réel avec Irrlicht} 50 \%
+\item \href{https://openclassrooms.com/fr/courses/1243111}{Gérer son nom de domaine} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1170641}{[C++] Les conversions de types} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1421911}{Du C au C++} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/19980}{Apprenez à programmer en C !} 95 \%
+\item \href{https://openclassrooms.com/fr/courses/1090416}{Créer des bibliothèques avec Code::Blocks} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1894236}{Programmez avec le langage C++} 92 \%
+\item \href{https://openclassrooms.com/fr/courses/1374826}{Théorie des collisions} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/167717}{Créez des programmes en 3D avec OpenGL} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/3013711}{Développez une application mobile multi-plateforme avec Ionic} 87 \%
+\item \href{https://openclassrooms.com/fr/courses/2288321}{Apprenez à programmer en assembleur x86 !} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1464031}{En profondeur avec l'assembleur} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1746031}{Java et les annotations} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/1115306}{Présentation de la Javadoc} 100 \%
+\item \href{https://openclassrooms.com/fr/courses/2342361}{Gérez votre code avec Git et GitHub} 92 \%
+\item \href{https://openclassrooms.com/fr/courses/43538}{Reprenez le contrôle à l'aide de Linux !} 97 \%
+\item \href{https://openclassrooms.com/fr/courses/918836}{Concevez votre site web avec PHP et MySQL} 92 \%
+\item \href{https://openclassrooms.com/fr/courses/1603881}{Apprenez à créer votre site web avec HTML5 et CSS3} 87 \%
