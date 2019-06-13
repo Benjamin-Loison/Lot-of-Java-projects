@@ -1,0 +1,5 @@
+name: AltisCraftPluginManager
+main: fr.altiscraft.forgetobukkit.main.AltisCraftForgePlugin
+version: 1.0.0
+author: DiabolicaTrix
+description: AltisCraftPluginManager
