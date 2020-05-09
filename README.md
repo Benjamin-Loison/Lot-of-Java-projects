@@ -10,3 +10,5 @@ I also got a lot of projects but I am not the main author, I just try to use the
 Look at the description (and the discussion attached) for the last modified date of the specified algorithm.
 
 I don't upload short algorithm (less than 50 lines or less than 1 Ko or not very interesting short code)
+
+![alt text](https://github.com/Benjamin-Loison/Lot-of-Java-projects/raw/master/PhoneGui.jpg)
