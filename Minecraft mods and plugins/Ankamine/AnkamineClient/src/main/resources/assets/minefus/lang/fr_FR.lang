@@ -1,0 +1,197 @@
+entity.Bouftouroyal.name=Bouftou Royal
+entity.Royal.name=Bouftou Royal
+entity.Piourose.name=Piou Rose
+entity.Piouvert.name=Piou Vert
+entity.Piourouge.name=Piou Rouge
+entity.Pioubleu.name=Piou Bleu
+entity.Pioujaune.name=Piou Jaune
+entity.Piouviolet.name=Piou Violet
+entity.Bouftou.name=Bouftou
+entity.Bouftonnoir.name=Boufton Noir
+entity.Bouftonblanc.name=Boufton Blanc
+entity.Chef.name=Chef de guerre bouftou
+entity.Milimulou.name=Milimulou
+entity.Tournesolaffame.name=Tournesol Affamé
+entity.Larveorange.name=Larve orange
+entity.Larvebleu.name=Larve bleu
+entity.Larveverte.name=Larve verte
+entity.Larvedoree.name=Larve dorée
+entity.craquebille.name=Craquebille
+entity.Champchamp.name=Champchamp
+entity.Sanglierincarnam.name=Petit Sanglier
+entity.Sanglierastrub.name=Sanglier d'Astrub
+entity.Sanglieramakna.name=Sanglier
+key.minefus.category=Minefus Serveur
+key.minefusinventory.desc=Inventaire Minefus
+
+item.kamas.name=Kamas
+item.kamas9.name=Kamas *9
+item.kamas90.name=Kamas *90
+item.morceaudekamas.name=Morceau de Kamas
+item.grainedepiou.name=Graine de sésame
+item.plumepioujaune.name=Plume du piou jaune
+item.plumepiouvert.name=Plume du piou vert
+item.plumepioubleu.name=Plume du piou bleu
+item.plumepiourouge.name=Plume du piou rouge
+item.plumepiouviolet.name=Plume du piou violet
+item.plumepiourose.name=Plume du piou rose
+item.lainebouftou.name=Laine de bouftou
+item.lainebouftouroyal.name=Laine de bouftou royal
+item.cuirbouftou.name=Cuir de bouftou
+item.cuirbouftouroyal.name=Cuir de bouftou royal
+item.cornebouftou.name=Corne de bouftou
+item.oeildebouftou.name=Oeil de bouftou
+item.champignon.name=Champignon
+
+
+item.bouftouhelmet.name=Coiffe Bouftou
+item.bouftouchestplate.name=Cape Bouffante
+item.bouftouleggings.name=Ceinture du Bouftou
+item.bouftouboots.name=Boufbottes
+item.moussehelmet.name=Coiffe en Mousse
+item.moussechestplate.name=Cape en Mousse
+item.mousseleggings.name=Pantalon en Mousse
+item.mousseboots.name=Bottes en Mousse
+item.championhelmet.name=Coiffe du Champion
+item.championchestplate.name=Cape du champion
+item.championleggings.name=Ceinture du Champion
+item.championboots.name=Bottes du Champion
+item.paysanhelmet.name=Bob du Paysan
+item.paysanchestplate.name=Cape Paysanne
+item.paysanleggings.name=Ceinturama du Paysan
+item.paysanboots.name=Bottes Paysannes
+item.bouftouroyalhelmet.name=Boufcoiffe Royal
+item.bouftouroyalchestplate.name=Cape Bouffante Royal
+item.bouftouroyalleggings.name=Ceinture du Bouftou Royal
+item.bouftouroyalboots.name=Boufbottes Royal
+item.pioujaunehelmet.name=Coiffe du Piou jaune
+item.pioujaunechestplate.name=Cape du Piou jaune
+item.pioujauneleggings.name=Ceinture du Piou jaune
+item.pioujauneboots.name=Sandales du Piou jaune
+item.piouverthelmet.name=Coiffe du Piou vert
+item.piouvertchestplate.name=Cape du Piou vert
+item.piouvertleggings.name=Ceinture du Piou vert
+item.piouvertboots.name=Sandales du Piou vert
+item.piourougehelmet.name=Coiffe du Piou rouge
+item.piourougechestplate.name=Cape du Piou rouge
+item.piourougeleggings.name=Ceinture du Piou rouge
+item.piourougeboots.name=Sandales du Piou rouge
+item.piourosehelmet.name=Coiffe du Piou rose
+item.piourosechestplate.name=Cape du Piou rose
+item.piouroseleggings.name=Ceinture du Piou rose
+item.piouroseboots.name=Sandales du Piou rose
+item.pioubleuhelmet.name=Coiffe du Piou bleu
+item.pioubleuchestplate.name=Cape du Piou bleu
+item.pioubleuleggings.name=Ceinture du Piou bleu
+item.pioubleuboots.name=Sandales du Piou bleu
+item.piouviolethelmet.name=Coiffe du Piou violet
+item.piouvioletchestplate.name=Cape du Piou violet
+item.piouvioletleggings.name=Ceinture du Piou violet
+item.piouvioletboots.name=Sandales du Piou violet
+
+
+item.marteaubouftou.name=Marteau du Bouftou
+
+item.clefincarnam.name=Clef du Donjon d'Incarnam
+item.clefbouftou.name=Clef du Donjon des Bouftous
+item.clefchamps.name=Clef du Donjon des Champs
+item.clefkwakwa.name=Clef du Nid des Kwakwas
+item.cleffantome.name=Clef de la Maison Fantome
+item.clefensable.name=Clef du Donjon Ensablé
+item.cleflarve.name=Oeuf de Larve Dorée
+item.clefroyalmouth.name=Clef de la Serre du RoyalMouth
+item.clefblop.name=Clef du Donjon des Blops
+item.clefblopsmulti.name=Clef de l'Antre du Blop Multicolore
+item.cleftofu.name=Clef du Donjon des Tofus
+item.cleftofuroyal.name=Clef secrète du Tofulailler Royal
+
+item.cadeau_de_nowel_potentiellement_surpuissant.name=Cadeau de Nowel Potientiellement
+item.flocon_de_feige.name= Flocon de Neige
+item.fond_de_culotte_de_glugubrr.name=Fond de Culotte de Glugubrr
+item.hormone_de_tofu_givré.name=Hormone de Tofu Givré
+item.nez_rouge_de_redolphe.name=Nez Rouge de Redolphe
+item.patron_de_redolphe.name=Patron de Redolphe
+item.ratelier_doogie_betty.name=Ratelier D'Oogie Betty
+item.patron_du_nowel_cauchemardesque.name=Patron du Nowel Cauchemardesque
+item.patron_du_pere_fwetar.name=Patron du Père Fwetar
+item.antennes_du_cafard_fadet.name=Antennes du Cafard Fadet
+item.blague_glutine.name=Blague Glutine
+item.paquet_cadeau_du_minotoboule_de_nowel.name=Paquet Cadeau du Minotoboule de Nowel
+item.patron_du_glutin.name=Patron du Glutin
+
+
+item.pain_amakna.name=Pain d'Amakna
+item.potionbonta.name=Potion de cité: Bonta
+item.potionastrub.name=Potion de cité: Astrub
+
+tile.dragoeuf.name=Terre des Dragoeufs
+tile.dcdirt2.name=Terre du Dragon Cochon 2
+tile.griser.name=Griser
+tile.griserdirt.name=Griser Dirt
+tile.mossiekoalak1.name=Mossie Koalak 1
+tile.mossiekoalak2.name=Mossie Koalak 2
+tile.mossiekoalak3.name=Mossie Koalak 3
+tile.mossiekoalak4.name=Mossie Koalak 4
+tile.briquebonta.name=Brique de Bonta
+tile.briquebrakmar.name=Brique de Brakmar
+tile.dcdirt.name=Terre du Dragon Cochon
+tile.sadidafibre.name=Fibres de Sadida
+tile.terre_kani.name=Terre des Kanigrous
+tile.cobble_kani.name=Cobble des Kanigrous
+tile.cobble_bwork.name=Cobble des Bworks
+tile.cobble_bwork2.name=Cobble des Bworks 2
+tile.cobble_bwork3.name=Cobble des Bworks 3
+item.Coiffe_Bouftou.name=§6Coiffe Du Bouftou
+item.Cape_Bouftou.name=§6Cape Bouffante
+item.Ceinture_Bouftou.name=§6Ceinture Du Bouftou
+item.Botte_Bouftou.name=§6Boufbottes
+item.Ceinture_Bouftou.name=§6Ceinture Du Bouftou
+item.Amulette_Bouftou.name=§6Amulette Du Bouftou
+item.Ceinture_Bouftou.name=§6Ceinture Du Bouftou
+item.Botte_Bouftou.name=§6Boufbottes
+item.Ceinture_Bouftou.name=§6Ceinture Du Bouftou
+item.Anneau_Bouftou.name=§6Anneau De Bouze Le Clerc
+item.Marteau_Bouftou.name=§2Marteau Du Bouftou
+
+item.Coiffe_Mousse.name=§f[§4WIP§f] §cCoiffe En Mousse
+item.Cape_Mousse.name=§f[§4WIP§f] §cCape En Mousse
+item.Ceinture_Mousse.name=§f[§4WIP§f] §cCeinture En Mousse
+item.Botte_Mousse.name=§f[§4WIP§f] §cBotte En Mousse
+item.Pelle_Mousse.name=§f[§4WIP§f] §cPelle En Mousse
+
+item.Coiffe_Bouftou_Royal.name=§6Boufcoiffe Royal
+item.Cape_Bouftou_Royal.name=§6Cape Bouffante Royale
+item.Ceinture_Bouftou_Royal.name=§6Ceinture Royale Du Bouftou
+item.Botte_Bouftou_Royal.name=§6Boufbottes Royales
+item.Anneau_Bouftou_Royal.name=§6Anneau Royal Du Bouftou
+item.Amulette_Bouftou_Royal.name=§6Amulette Royale Du Bouftou
+item.Epee_Bouftou_Royal.name=§2Epee Royale Du Bouftou
+
+item.Jeton_De_Compensation.name=§9Jeton De Compensation
+
+item.Bilby.name=§aBilby
+item.Croum.name=§aCroum
+
+#Blocs
+tile.m_grass.name=m grass
+tile.m_grass_flower.name=m grass flower
+tile.m_dirt.name=m dirt
+tile.m_dirtgrass_corner1.name=m dirtgrass corner 1
+tile.m_dirtgrass_corner2.name=m dirtgrass corner 2
+tile.m_dirtgrass_corner3.name=m dirtgrass corner 3
+tile.m_dirtgrass_corner4.name=m dirtgrass corner 4
+tile.m_dirtgrass_corner5.name=m dirtgrass corner 5
+tile.m_dirtgrass_corner6.name=m dirtgrass corner 6
+tile.m_dirtgrass_corner7.name=m dirtgrass corner 7
+tile.m_dirtgrass_corner8.name=m dirtgrass corner 8
+tile.m_dirtgrass_down.name=m dirtgrass down
+tile.m_dirtgrass_up.name=m dirtgrass up
+tile.m_dirtgrass_left.name=m dirtgrass left
+tile.m_dirtgrass_right.name=m dirtgrass right
+tile.m_stone.name=m stone
+tile.m_stone2.name=m stone2
+tile.DoubleSlabMStone.name=m_stone_slab
+
+
+#CreativeTabs
+itemGroup.tabBlock=Blocks

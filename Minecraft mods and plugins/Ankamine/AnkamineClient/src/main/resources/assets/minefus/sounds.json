@@ -1,0 +1,129 @@
+{
+    "arakneLiving": {
+        "category": "hostile",
+        "sounds": [
+            "arakne_living1"
+        ]
+    },
+    "arakneHurt": {
+        "category": "hostile",
+        "sounds": [
+            "arakne_hurt1"
+        ]
+    },
+    "arakneDead": {
+        "category": "hostile",
+        "sounds": [
+            "arakne_dead1"
+        ]
+    },
+	    "bouftonLiving": {
+        "category": "hostile",
+        "sounds": [
+            "boufton_living1"
+        ]
+    },
+	    "bouftonHurt": {
+        "category": "hostile",
+        "sounds": [
+            "boufton_hurt1"
+        ]
+    },
+    "bouftonDead": {
+        "category": "hostile",
+        "sounds": [
+            "boufton_dead1"
+        ]
+    },
+	    "bouftouLiving": {
+        "category": "hostile",
+        "sounds": [
+            "bouftou_living1"
+        ]
+    },
+	    "bouftouHurt": {
+        "category": "hostile",
+        "sounds": [
+            "bouftou_hurt1"
+        ]
+    },
+        "bouftouDead": {
+        "category": "hostile",
+        "sounds": [
+            "bouftou_dead1"
+        ]
+    },
+	    "larveLiving": {
+        "category": "hostile",
+        "sounds": [
+            "larve_living1"
+        ]
+    },
+	    "larveHurt": {
+        "category": "hostile",
+        "sounds": [
+            "larve_hurt1"
+        ]
+    },
+        "larveDead": {
+        "category": "hostile",
+        "sounds": [
+            "larve_dead1"
+        ]
+    },
+	    "moskitoLiving": {
+        "category": "hostile",
+        "sounds": [
+            "moskito_living1"
+        ]
+    },
+	    "moskitoHurt": {
+        "category": "hostile",
+        "sounds": [
+            "moskito_hurt1"
+        ]
+    },
+        "moskitoDead": {
+        "category": "hostile",
+        "sounds": [
+            "moskito_dead1"
+        ]
+    },
+	    "piouLiving": {
+        "category": "hostile",
+        "sounds": [
+            "piou_living1",
+			"piou_living2"
+        ]
+    },
+	    "piouHurt": {
+        "category": "hostile",
+        "sounds": [
+            "piou_hurt1"
+        ]
+    },
+        "piouDead": {
+        "category": "hostile",
+        "sounds": [
+            "piou_dead1"
+        ]
+	},
+	    "tofuLiving": {
+        "category": "hostile",
+        "sounds": [
+            "tofu_living1"
+        ]
+    },
+	    "tofuHurt": {
+        "category": "hostile",
+        "sounds": [
+            "tofu_hurt1"
+        ]
+    },
+        "tofuDead": {
+        "category": "hostile",
+        "sounds": [
+            "tofu_dead1"
+        ]
+    }
+}

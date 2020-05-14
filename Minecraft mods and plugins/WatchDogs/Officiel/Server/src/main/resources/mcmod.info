@@ -1,0 +1,16 @@
+[
+    {
+  "modid": "watchdogs",
+  "name": "WatchDogs",
+  "description": "WatchDogs Mod for the launcher WatchDogs only (Owned by AltisCraft.fr) ! This is Server Version, don't publish this !",
+  "version": "Hacked",
+  "mcversion": "1.7.10",
+  "url": "http://altiscraft.fr/",
+  "updateUrl": "",
+  "authorList": ["Benjamin LOISON"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+    }
+]

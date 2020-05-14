@@ -1,0 +1,5 @@
+name: PluginChequeMod
+main: fr.chequemod.benjaminloison.main.PluginChequeMod
+version: 1.0.0
+author: Benjamin Loison
+description: PluginChequeMod

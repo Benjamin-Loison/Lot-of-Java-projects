@@ -1,0 +1,16 @@
+[
+    {
+  "modid": "phonegui",
+  "name": "PhoneGui",
+  "description": "PhoneGui Mod for the launcher Arcanite only ! This is Server Version, don't publish this !",
+  "version": "InDev",
+  "mcversion": "1.7.10",
+  "url": "http://altiscraft.fr/",
+  "updateUrl": "",
+  "authorList": ["Benjamin LOISON"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+    }
+]

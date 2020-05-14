@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "minefus",
+        "name": "Minefus",
+        "description": "Only for Minefus Server ! Mod by Benjamin LOISON ! This is Client Side !",
+        "version": "InDev",
+        "mcversion": "1.7.10",
+        "url": "http://minefus.com",
+        "updateUrl": "",
+        "authorList": [
+            "Benjamin_LOISON"
+        ],
+        "credits": "Degraduck",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

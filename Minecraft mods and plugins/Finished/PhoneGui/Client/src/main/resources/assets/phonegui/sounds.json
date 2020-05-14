@@ -1,0 +1,119 @@
+{
+   "PhoneOpen": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "PhoneOpen",
+               "stream": false
+           }
+       ]
+   },
+   "PhoneType": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "PhoneType",
+               "stream": false
+           }
+       ]
+   },
+   "PhoneMessage": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "PhoneMessage",
+               "stream": false
+           }
+       ]
+   },
+   "PhoneClose": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "PhoneClose",
+               "stream": false
+           }
+       ]
+   },
+   "TalkieWalkieOpen": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "TalkieWalkieClose",
+               "stream": false
+           }
+       ]
+   },
+   "TalkieWalkieChange": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "TalkieWalkieChange",
+               "stream": false
+           }
+       ]
+   },
+   "TalkieWalkieType0": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "TalkieWalkieType0",
+               "stream": false
+           }
+       ]
+   },
+   "TalkieWalkieType1": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "TalkieWalkieType1",
+               "stream": false
+           }
+       ]
+   },
+   "TalkieWalkieType2": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "TalkieWalkieType2",
+               "stream": false
+           }
+       ]
+   },
+   "TalkieWalkieType3": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "TalkieWalkieType3",
+               "stream": false
+           }
+       ]
+   },
+   "TalkieWalkieType4": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "TalkieWalkieType4",
+               "stream": false
+           }
+       ]
+   },
+   "TalkieWalkieMessage": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "TalkieWalkieMessage",
+               "stream": false
+           }
+       ]
+   },
+   "TalkieWalkieClose": {
+       "category": "player",
+       "sounds": [
+           {
+               "name": "TalkieWalkieClose",
+               "stream": false
+           }
+       ]
+   }
+}

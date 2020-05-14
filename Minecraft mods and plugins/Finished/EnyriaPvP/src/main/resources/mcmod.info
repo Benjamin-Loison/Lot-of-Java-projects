@@ -1,0 +1,13 @@
+[
+{
+  "modid": "EnyriaPvP",
+  "name": "EnyriaPvP",
+  "description": "Mod EnyriaPvP développé par Benjamin LOISON",
+  "version": "Universal",
+  "mcversion": "1.7.10",
+  "url": "http://www.altiscraft.fr",
+  "updateUrl": "",
+  "authorList": ["Benjamin LOISON"],
+  "logoFile": "/logo.png"
+}
+]

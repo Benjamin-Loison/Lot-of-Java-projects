@@ -1,0 +1,147 @@
+SERVER
+
+astrub=0,10,0
+bonta=0,10,0
+
+CLIENT
+
+money.with.spaces=true
+initialized.post=Post initialisé !
+itemGroup.minefus=Minefus
+
+website=Site
+forum=Forum
+teamspeak=TeamSpeak
+sho=Boutique
+connected.as=Connecté en tant que 
+
+website.url=http://minefus.fr/
+forum.url=http://minefus.fr/forum
+teamspeak.url=ts3server://ts.minefus.fr?port=9987&nickname=%s
+minefus.ip=ts.altiscraft.fr
+minefus.port=24000
+authentification.resolver.server.url=http://195.154.194.190/Info.txt
+authentification.server.ip=ts.altiscraft.fr
+authentification.server.port=59722
+timeout.in.milliseconds=3000
+
+name=Compte
+already.registered=Déjà enregistré ?
+register=S'enregistrer
+login=Se connecter
+registration=Enregistrement
+connection=Connexion
+password.modifier=Changement de mot de passe
+unavailable.connection=Connexion indisponible !
+password.new=Nouveau mot de passe
+password=Mot de passe
+password.modify=Modifier le MDP
+menu.main=Menu principale
+error=Erreur !
+enter.a.password=Entrez un mot de passe !
+wrong.password=Mot de passe invalide !
+
+tile.dirt.name=Terre
+tile.stone_0.name=Pierre 1
+tile.stone_1.name=Pierre 2
+tile.grass_full.name=Herbe
+tile.single_stone_slab.name=Demi dalle de pierre
+tile.double_stone_slab.name=Double dalles de pierre
+
+item.mousse_helmet.name=Chapeau en mousse
+item.mousse_chestplate.name=Cape en mousse
+item.bouftou_helmet.name=Coiffe du bouftou
+item.royal_bouftou_helmet.name=Coiffe du bouftou royal
+item.bouftou_chestplate.name=Cape du bouftou
+item.royal_bouftou_chestplate.name=Cape du bouftou royal
+item.quest_helmet.name=Chapeau de quête
+
+item.croum.name=Croum
+item.bilby.name=Bilby
+
+item.mousse_spade.name=Pelle en mousse
+item.royal_bouftou_sword.name=Epée du bouftou royal
+item.bouftou_hammer.name=Marteau du bouftou
+
+item.mushroom.name=Champignon
+item.mimibiote.name=Mimibiote
+item.amakna_bread.name=Pain d'Amakna
+item.astrub_potion.name=Potion d'Astrub
+item.bonta_potion.name=Potion de Bonta
+item.bouftou_eye.name=Oeil de bouftou
+item.bouftou_wool.name=Laine de bouftou
+item.royal_bouftou_wool.name=Laine de bouftou royal
+item.bouftou_horn.name=Corne de bouftou
+item.bouftou_leather.name=Cuir de bouftou
+item.royal_bouftou_leather.name=Cuir de bouftou royal
+item.piou_seeds.name=Graines de piou
+item.green_piou_feather.name=Plume de piou vert
+item.purple_piou_feather.name=Plume de piou violet
+item.pink_piou_feather.name=Plume de piou rose
+item.red_piou_feather.name=Plume de piou rouge
+item.blue_piou_feather.name=Plume de piou bleu
+item.yellow_piou_feather.name=Plume de piou jaune
+item.incarnam_key.name=Clé du donjon d'Incarnam
+item.farms_key.name=Clé du donjon des Champs
+item.silted_key.name=Clé du donjon Ensablé
+item.bouftou_key.name=Clé du donjon des Bouftous
+item.royal_mouth_key.name=Clé du donjon du Royal Mouth
+item.kwakwa_key.name=Clé du donjon Kwakwa
+item.larva_key.name=Clé du donjon des Larves
+item.tofu_key.name=Clé du donjon des Tofus
+item.royal_tofu_key.name=Clé du donjon du Tofu royal
+item.ghost_key.name=Clé du donjon Fantôme
+item.blops_key.name=Clé du donjon des Blops
+item.multi_blop_key.name=Clé du donjon du Blop multicolore
+
+key.minefusinventory.desc=Inventaire de Minefus
+key.minefus.category=Minefus
+
+entity.arakne.name=Arakne
+entity.sicked_arakne.name=Arakne malade
+entity.aggressive_arakne.name=Arakne agressive
+entity.unripe_arakne.name=Arakne immature
+entity.white_boufton.name=Boufton blanc
+entity.black_boufton.name=Boufton noir
+entity.white_young_boufton.name=Jeune boufton blanc
+entity.black_young_boufton.name=Jeune boufton noir
+entity.bouftou.name=Bouftou
+entity.royal_bouftou.name=Bouftou royal
+entity.champ_champ.name=Champ champ
+entity.vulnerable_champ_champ.name=Champ champ vulnérable
+entity.chief_of_war_bouftou.name=Chef de guerre bouftou
+entity.craquebille.name=Craquebille
+entity.craqueboule.name=Craqueboule
+entity.young_white_boufton.name=Jeune boufton blanc
+entity.young_black_boufton.name=Jeune boufton noir
+entity.blue_larva.name=Larve bleu
+entity.blue_unripe_larva.name=Larve bleu immature
+entity.green_larva.name=Larve verte
+entity.green_unripe_larva.name=Larve verte immature
+entity.orange_larva.name=Larve orange
+entity.orange_unripe_larva.name=Larve orange immature
+entity.little_bouftou.name=Petit bouftou
+entity.milimilou.name=Milimilou
+entity.moskito.name=Moskito
+entity.fearful_moskito.name=Moskito peureux
+entity.little_chief_of_war_bouftou.name=Petit chef de guerre bouftou
+entity.little_tofu.name=Petit tofu
+entity.little_wild_tournesol.name=Petit tournesol sauvage
+entity.blue_piou.name=Piou bleu
+entity.yellow_piou.name=Piou jaune
+entity.red_piou.name=Piou rouge
+entity.pink_piou.name=Piou rose
+entity.purple_piou.name=Piou violet
+entity.green_piou.name=Piou vert
+entity.blue_pioussin.name=Pioussin bleu
+entity.yellow_pioussin.name=Pioussin jaune
+entity.red_pioussin.name=Pioussin rouge
+entity.pink_pioussin.name=Pioussin rose
+entity.purple_pioussin.name=Pioussin violet
+entity.green_pioussin.name=Pioussin vert
+entity.tofu.name=Tofu
+entity.sicked_tofu.name=Tofu malade
+entity.wild_tournesol.name=Tournesol sauvage
+
+minefus_inventory=Inventaire Minefus
+mimibiote_inventory=Inventaire mimibiote

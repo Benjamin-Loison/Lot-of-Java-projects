@@ -1,0 +1,22 @@
+name: Annihilation
+main: fr.annihilation.benjaminloison.main.Annihilation
+version: 1.0.0
+author: Benjamin Loison
+description: Annihilation
+commands:
+  annihilation:
+    description: Annihilation
+    usage: /annihilation
+  map:
+    description: Map
+    usage: /map
+  t:
+    description: Team chat
+    usage: /t <message>
+  team:
+    description: team
+    usage: /team <color>
+  class:
+    description: class
+    usage: /class <class>
+depends: [WorldGuard, WorldEdit]

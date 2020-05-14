@@ -1,0 +1,9 @@
+name: RealFaction
+main: fr.benjaminloison.realfaction.main.RealFaction
+version: 1.0.0
+author: Benjamin Loison
+description: Plugin RealFaction
+commands:
+  rf:
+    description: RealFaction
+    usage: /rf

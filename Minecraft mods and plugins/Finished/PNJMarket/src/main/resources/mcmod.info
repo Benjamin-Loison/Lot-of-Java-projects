@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pnjmarket",
+  "name": "PNJMarket",
+  "description": "Ajoute PNJ lié au Plugin PNJMarket et ChestCommands. Distribution interdite, réservé à Christova Droka.",
+  "version": "1.7.10",
+  "mcversion": "1.7.10",
+  "url": "http://www.altiscraft.fr/",
+  "updateUrl": "",
+  "authors": ["Benjamin Loison"],
+  "credits": "Benjamin Loison",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

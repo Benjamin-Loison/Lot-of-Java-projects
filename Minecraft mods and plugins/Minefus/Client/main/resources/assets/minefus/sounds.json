@@ -1,0 +1,129 @@
+{
+    "Arakne living": {
+        "category": "hostile",
+        "sounds": [
+            "Arakne living"
+        ]
+    },
+    "Arakne hurt": {
+        "category": "hostile",
+        "sounds": [
+            "Arakne hurt"
+        ]
+    },
+    "Arakne death": {
+        "category": "hostile",
+        "sounds": [
+            "Arakne death"
+        ]
+    },
+	"Boufton living": {
+        "category": "hostile",
+        "sounds": [
+            "Boufton living"
+        ]
+    },
+	"Boufton hurt": {
+        "category": "hostile",
+        "sounds": [
+            "Boufton hurt"
+        ]
+    },
+    "Boufton death": {
+        "category": "hostile",
+        "sounds": [
+            "Boufton death"
+        ]
+    },
+	"Bouftou living": {
+        "category": "hostile",
+        "sounds": [
+            "Bouftou living"
+        ]
+    },
+	"Bouftou hurt": {
+        "category": "hostile",
+        "sounds": [
+            "Bouftou hurt"
+        ]
+    },
+    "Bouftou death": {
+        "category": "hostile",
+        "sounds": [
+            "Bouftou death"
+        ]
+    },
+	"Larva living": {
+        "category": "hostile",
+        "sounds": [
+            "Larva living"
+        ]
+    },
+	"Larva hurt": {
+        "category": "hostile",
+        "sounds": [
+            "Larva hurt"
+        ]
+    },
+    "Larva death": {
+        "category": "hostile",
+        "sounds": [
+            "Larva death"
+        ]
+    },
+	"Moskito living": {
+        "category": "hostile",
+        "sounds": [
+            "Moskito living"
+        ]
+    },
+	"Moskito hurt": {
+        "category": "hostile",
+        "sounds": [
+            "Moskito hurt"
+        ]
+    },
+    "Moskito death": {
+        "category": "hostile",
+        "sounds": [
+            "Moskito death"
+        ]
+    },
+	"Piou living": {
+        "category": "hostile",
+        "sounds": [
+            "Piou living 0",
+			"Piou living 1"
+        ]
+    },
+	"Piou hurt": {
+        "category": "hostile",
+        "sounds": [
+            "Piou hurt"
+        ]
+    },
+    "Piou death": {
+        "category": "hostile",
+        "sounds": [
+            "Piou death"
+        ]
+	},
+	"Tofu living": {
+        "category": "hostile",
+        "sounds": [
+            "Tofu living"
+        ]
+    },
+	"Tofu hurt": {
+        "category": "hostile",
+        "sounds": [
+            "Tofu hurt"
+        ]
+    },
+    "Tofu death": {
+        "category": "hostile",
+        "sounds": [
+            "Tofu death"
+        ]
+    }
+}

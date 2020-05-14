@@ -1,0 +1,16 @@
+[
+    {
+  "modid": "title",
+  "name": "Title",
+  "description": "Title Mod open project by Benjamin LOISON ! This is Client Version, don't forget to use with the server plugin !",
+  "version": "Universal",
+  "mcversion": "1.7.10",
+  "url": "http://altiscraft.fr/",
+  "updateUrl": "",
+  "authorList": ["Benjamin LOISON"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+    }
+]

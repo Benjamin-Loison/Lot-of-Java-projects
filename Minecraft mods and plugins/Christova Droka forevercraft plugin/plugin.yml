@@ -1,0 +1,10 @@
+name: Forevercraft
+main: fr.benjaminloison.forevercraft.main.Forevercraft
+version: 1.0.0
+author: Benjamin Loison
+description: Plugin Forevercraft
+commands:
+  house:
+    description: House
+    usage: /house <info/buy/sell/add/remove> [player]
+depends: [WorldGuard, WorldEdit]

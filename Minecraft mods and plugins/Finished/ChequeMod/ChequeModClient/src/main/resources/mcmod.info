@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chequemod",
+  "name": "ChequeMod",
+  "description": "ChequeMod is only for Arcanite Server ! This is Client side ! Made by Benjamin LOISON !",
+  "version": "InDev",
+  "mcversion": "1.7.10",
+  "url": "http://altiscraft.fr",
+  "updateUrl": "",
+  "authorList": ["Benjamin_Loison"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

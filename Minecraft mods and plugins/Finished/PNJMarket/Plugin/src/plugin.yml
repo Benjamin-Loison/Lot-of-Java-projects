@@ -1,0 +1,5 @@
+name: PNJMarket
+main: fr.benjaminloison.pnjmarket.main.PNJMarket
+version: 1.0.0
+author: Benjamin Loison
+description: Plugin AltisCraft.fr

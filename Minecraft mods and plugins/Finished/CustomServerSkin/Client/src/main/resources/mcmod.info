@@ -1,0 +1,16 @@
+[
+    {
+  "modid": "customserverskin",
+  "name": "CustomServerSkin",
+  "description": "CustomServerSkin Mod for the launcher prisonlife only ! This is Client Version, don't publish this !",
+  "version": "InDev",
+  "mcversion": "1.7.10",
+  "url": "http://altiscraft.fr/",
+  "updateUrl": "",
+  "authorList": ["Benjamin LOISON"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+    }
+]

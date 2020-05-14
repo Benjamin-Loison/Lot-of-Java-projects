@@ -1,0 +1,9 @@
+name: TeamSpeak
+main: fr.benjaminloison.teamspeak.main.TeamSpeak
+version: 1.0.0
+author: Benjamin Loison
+description: Plugin to interact with TeamSpeak server with commands
+commands:
+  ts:
+    description: Command to interact with TeamSpeak server
+    usage: /ts <code>
