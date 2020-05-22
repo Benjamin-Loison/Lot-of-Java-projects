@@ -39,7 +39,8 @@ public class PhoneGui
     @SubscribeEvent
     public void onConnect(FMLNetworkEvent.ClientConnectedToServerEvent event)
     {
-        if(!event.manager.getSocketAddress().toString().contains((char)97 + "" + (char)108 + "" + (char)116 + "" + (char)105 + "" + (char)115 + "" + (char)99 + "" + (char)114 + "" + (char)97 + "" + (char)102 + "" + (char)116 + "" + (char)46 + "" + (char)102 + "" + (char)114 + "" + (char)47))
-            Throwables.propagate(new Exception("Server non authorized !"));
+        // antitheft check (useless because code is now on GitHub)
+        //if(!event.manager.getSocketAddress().toString().contains((char)97 + "" + (char)108 + "" + (char)116 + "" + (char)105 + "" + (char)115 + "" + (char)99 + "" + (char)114 + "" + (char)97 + "" + (char)102 + "" + (char)116 + "" + (char)46 + "" + (char)102 + "" + (char)114 + "" + (char)47))
+        //    Throwables.propagate(new Exception("Server non authorized !"));
     }
 }
