@@ -44,8 +44,9 @@ public class Forevercraft extends JavaPlugin
         plugin = this;
         print("Launching...");
         // minecraft_189016
-        if(!new File("").getAbsolutePath().contains(new String(new byte[] {0x6d, 0x69, 0x6e, 0x65, 0x63, 0x72, 0x61, 0x66, 0x74, 0x5f, 0x31, 0x38, 0x39, 0x30, 0x31, 0x36}, Charsets.UTF_8)))
-            Throwables.propagate(new Throwable("Server non authorized !"));
+        // soft antitheft check (useless because code is now on GitHub)
+        //if(!new File("").getAbsolutePath().contains(new String(new byte[] {0x6d, 0x69, 0x6e, 0x65, 0x63, 0x72, 0x61, 0x66, 0x74, 0x5f, 0x31, 0x38, 0x39, 0x30, 0x31, 0x36}, Charsets.UTF_8)))
+        //    Throwables.propagate(new Throwable("Server non authorized !"));
         FileAPI.languageFile.getParentFile().mkdirs();
         new EventController(this);
         FileAPI.ifNotExisteWrite(config, new Date().toLocaleString());
