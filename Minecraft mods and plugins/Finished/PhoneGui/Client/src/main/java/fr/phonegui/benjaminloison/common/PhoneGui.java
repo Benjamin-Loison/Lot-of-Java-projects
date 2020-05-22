@@ -22,7 +22,7 @@ public class PhoneGui
     @Mod.EventHandler
     public void preInit(FMLPostInitializationEvent event)
     {
-        // antitheft check (useless because code is now on GitHub)
+        // soft antitheft check (useless because code is now on GitHub)
         //if(!Minecraft.getMinecraft().mcDataDir.getAbsolutePath().contains((char)65 + "" + (char)108 + "" + (char)116 + "" + (char)105 + "" + (char)115 + "" + (char)67 + "" + (char)114 + "" + (char)97 + "" + (char)102 + "" + (char)116 + "" + (char)46 + "" + (char)102 + "" + (char)114 + "" + (char)32 + "" + (char)45 + "" + (char)32 + "" + (char)68 + "" + (char)97 + "" + (char)114 + "" + (char)107 + "" + (char)82 + "" + (char)80))
         //    Throwables.propagate(new Exception("Launcher non authorized !"));
         GameRegistry.registerItem(new Phone(), "phone");
