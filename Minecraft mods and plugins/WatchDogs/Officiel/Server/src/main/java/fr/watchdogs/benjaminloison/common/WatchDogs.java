@@ -135,8 +135,9 @@ public class WatchDogs
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-        if(!new File("").getAbsolutePath().contains(NAME))
-            Throwables.propagate(new Exception("You don't have to run this !"));
+        // soft antitheft check (useless because code is now on GitHub)
+        //if(!new File("").getAbsolutePath().contains(NAME))
+        //    Throwables.propagate(new Exception("You don't have to run this !"));
         print(FileAPI.config("initializing.pre"));
         instance = this;
         FMLCommonHandler.instance().bus().register(eventHook);
