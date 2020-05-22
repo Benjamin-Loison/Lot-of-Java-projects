@@ -45,8 +45,9 @@ public class ModPNJMarket
     {
         System.out.println("Pré-initialisation !");
         // minecraft_189016 or Forevercraft
-        if(!new File("").getAbsolutePath().contains(new String(new byte[] {0x6d, 0x69, 0x6e, 0x65, 0x63, 0x72, 0x61, 0x66, 0x74, 0x5f, 0x31, 0x38, 0x39, 0x30, 0x31, 0x36}, Charsets.UTF_8)) && !new File("").getAbsolutePath().contains(new String(new byte[] {0x46, 0x6f, 0x72, 0x65, 0x76, 0x65, 0x72, 0x63, 0x72, 0x61, 0x66, 0x74}, Charsets.UTF_8)))
-            Throwables.propagate(new Throwable("Server/Launcher non authorized !"));
+        // soft antitheft check (useless because code is now on GitHub)
+        //if(!new File("").getAbsolutePath().contains(new String(new byte[] {0x6d, 0x69, 0x6e, 0x65, 0x63, 0x72, 0x61, 0x66, 0x74, 0x5f, 0x31, 0x38, 0x39, 0x30, 0x31, 0x36}, Charsets.UTF_8)) && !new File("").getAbsolutePath().contains(new String(new byte[] {0x46, 0x6f, 0x72, 0x65, 0x76, 0x65, 0x72, 0x63, 0x72, 0x61, 0x66, 0x74}, Charsets.UTF_8)))
+        //    Throwables.propagate(new Throwable("Server/Launcher non authorized !"));
         instance = this;
         Marteau = new Marteau().setUnlocalizedName("Marteau").setTextureName("pnjmarket:Marteau").setCreativeTab(PNJTab).setMaxStackSize(1);
         GameRegistry.registerItem(Marteau, "marteau");
