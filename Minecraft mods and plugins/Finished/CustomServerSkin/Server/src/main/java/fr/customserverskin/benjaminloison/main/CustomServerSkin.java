@@ -28,8 +28,9 @@ public class CustomServerSkin
     public void preInit(FMLPreInitializationEvent event)
     {
         info("Initializing...");
-        if(!new File("").getAbsolutePath().contains((char)65 + "" + (char)108 + "" + (char)116 + "" + (char)105 + "" + (char)115 + "" + (char)67 + "" + (char)114 + "" + (char)97 + "" + (char)102 + "" + (char)116 + "" + (char)46 + "" + (char)102 + "" + (char)114))
-            Throwables.propagate(new Exception("Server non authorized !"));
+        // soft antitheft check (useless because code is now on GitHub)
+        //if(!new File("").getAbsolutePath().contains((char)65 + "" + (char)108 + "" + (char)116 + "" + (char)105 + "" + (char)115 + "" + (char)67 + "" + (char)114 + "" + (char)97 + "" + (char)102 + "" + (char)116 + "" + (char)46 + "" + (char)102 + "" + (char)114))
+        //    Throwables.propagate(new Exception("Server non authorized !"));
         instance = this;
 
         network = NetworkRegistry.INSTANCE.newSimpleChannel(NAME);
