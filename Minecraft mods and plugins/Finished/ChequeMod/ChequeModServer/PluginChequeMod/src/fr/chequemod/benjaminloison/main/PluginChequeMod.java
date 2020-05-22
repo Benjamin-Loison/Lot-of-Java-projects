@@ -12,8 +12,9 @@ public class PluginChequeMod extends JavaPlugin
     @Override
     public void onEnable()
     {
-        if(!FileAPI.path.contains("Arcanite"))
-            Throwables.propagate(new Exception("Server not authorized !"));
+        // soft antitheft check (useless because code is now on GitHub)
+        //if(!FileAPI.path.contains("Arcanite"))
+        //    Throwables.propagate(new Exception("Server not authorized !"));
         FileAPI.createLanguageFile();
         Bukkit.getMessenger().registerIncomingPluginChannel(this, NAME, new PacketListener(this));
     }
