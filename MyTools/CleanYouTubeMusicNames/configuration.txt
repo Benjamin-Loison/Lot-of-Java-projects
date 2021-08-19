@@ -1,0 +1,60 @@
+/ spaces are important !
+/ order of lines is important !
+/ shouldn't make case sensitive
+/ remove or replace with '-' all '_' if not artist name
+/ remove producers #Columbine
+/ DJ uppercase and artist check Wikipedia ?
+/ final music name and folder name first uppercase
+/ if final file name is 'file name'.mp3 remove ''
+/ final name transform feat. to ft.
+/ if ft. X ft. Y replace with ft. X, Y
+/ remove dates (XXXX) ?
+-( Official Music Video )
+-(Official Music Video)
+-[Official Music Video]
+-Official Music Video
+-Official Music video
+-[Official Lyric Video]
+-(Official Lyric Video)
+-(Official Video)
+-(Official Video)
+-[Official Video]
+-Official Video
+-(Official)
+-(Lyric Video)
+-Lyric Video
+-(Lyrics)
+-(Lyric)
+-(Video)
+-(music video)
+-HD
+-[CLIP OFFICIEL]
+-(MUSIC VIDEO)
+-(Video Oficial)
+-(Clip officiel)
+-(clip officiel)
+-Official Audio
+-(Official Lyrics Video)
+-(official Video)
+-(Official Full Video)
+-(clip)
+-(Audio)
+-(Clip Officiel)
+-(Original Mix)
+-[out Now]
+-[official Video]
+-[hq Sound]
+-[Ultra Music]
+-Live Session
+-Soundtrack
+-(clip Non-officiel)
+-(Extended)
+-[Official Audio]
+-(Official Wtf version)
+-Lyrics in Description!
+-(cover)
+-[Clip Officiel]
+
+/ leave empty if don't want otherwise put split-character, example: - 
+#splitArtistAndSong= - 
+/ doesn't work (#feat): Bakermat & Goldfish feat. Marie Plassard - Games Continued.mp3
