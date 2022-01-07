@@ -1,8 +1,8 @@
-Utilisation de Bcrypt dans LemnosLife:
+Use of BCrypt in LemnosLife:
 
-Côté client: https://github.com/Benjamin-Loison/LemnosLife/blob/master/Client/Authentification/authentification.cpp  
-Côté serveur: https://github.com/Benjamin-Loison/LemnosLife/blob/master/Server/Authentification/auth.cpp
+Client side: https://github.com/Benjamin-Loison/LemnosLife/blob/master/Client/Authentification/authentification.cpp
+Server side: https://github.com/Benjamin-Loison/LemnosLife/blob/master/Server/Authentification/auth.cpp
 
-Utilisation de Vigenère avec une clé client et une clé serveur entrelacées dans LemnosLife (sécurité très faible mais suffisante afin d'éviter le simple copier-coller des données du jeu):
+Use of Vigenère with a client key and a server key interleaved in LemnosLife (very low security but sufficient to avoid simple copy and paste of the game data):
 
 https://github.com/Benjamin-Loison/LemnosLife/tree/master/Client/Crypt
